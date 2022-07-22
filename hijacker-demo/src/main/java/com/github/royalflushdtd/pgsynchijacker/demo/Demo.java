@@ -1,4 +1,4 @@
-package com.github.royalflushdtd.pgsynchijacker;
+package com.github.royalflushdtd.pgsynchijacker.demo;
 
 import org.postgresql.PGConnection;
 import org.postgresql.PGProperty;
