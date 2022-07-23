@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>hijacker-demo</module>
+        <module>hijacker-monitor</module>
+        <module>hijacker-server</module>
+        <module>hijacker-spi</module>
     </modules>
 
     <properties>
